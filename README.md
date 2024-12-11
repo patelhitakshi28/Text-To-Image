@@ -13,5 +13,12 @@ To make my project run efficiently, I set it up to use a GPU, a powerful tool de
     1. "A boy holding a teddybear and smiling, dainty figure, long hair straight down, dynamic pose, happy, soft".
     2. "dreamlike, beautiful girl playing the festival of diwali, draped in traditional Indian attire, happy playing around".
 
+I have also explored different Stable Diffusion Parameters. 
+ - Negative prompting
+ - num_inference_steps
+ - height
+ - weight
+ - num_images_per_prompt
+
  
 
